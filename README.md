@@ -7,4 +7,3 @@ for taking No Dues clearance certificate
 
 Since this website has backend made in PHP and MYSQL use Xampp,Lampp or any other software that run PHP and supports MYSQL
 
-Directly go to index.php
