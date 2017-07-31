@@ -1,4 +1,4 @@
-No Dues Portal is the Website developed under the CSE B.Tech sophomore course CS241 at IIT Guwahati
+No Dues Portal is the Website developed during the CSE B.Tech sophomore course CS241 at IIT Guwahati
 
 This website helps final year B.Tech students to take No Dues Clearance certificate when they leave college
 
